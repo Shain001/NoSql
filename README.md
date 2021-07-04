@@ -2,7 +2,8 @@
 
 <p>This project aims to practice database establishment and queries on MongoDB, Cassandra and Neo4j.</p>
 
-<p>The queries and implementation results can be seen in report files, while the code implementaion is also seprately added.</p>
+<p>To quickly overlook the query and implementation, see the report files.</p> 
+<p>To see the code implementaion, see seperate files.</p>
 
 ### CAUTION
 The MongoDB&Cassandra part is a team-based work. With the data import work, mongoDB driver code and part of the report done by @ElvisZewenLi.
